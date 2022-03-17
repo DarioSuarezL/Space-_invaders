@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Imaging.pngimage, Vcl.ExtCtrls,JPEG, UCNave, UCBala, UCEnemigo,
-  Vcl.MPlayer, Vcl.StdCtrls;
+   Vcl.StdCtrls, Vcl.MPlayer;
   const
   MaxE=100;
 
@@ -59,7 +59,7 @@ procedure TJuego.FormCreate(Sender: TObject);
 var de,i,j,px,py:word;
 begin
 pts:=0;
-//mediaplayer1.Play;
+mediaplayer1.Play;
   for i := 1 to 3 do begin
     Corazones[i]:=TPNGImage.Create;
     Corazones[i].LoadFromFile('Mobs/vidas.png');
