@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/23 19:34:02.000.555,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/23 19:50:29.000.974,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\PC\Desktop\Program 1\Space Invaders (Proyecto)\UFPrincipal.pas</Transaction>
+    <Transaction>2021/02/23 19:50:29.000.974,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\PC\Desktop\Program 1\Space Invaders (Proyecto)\UFPrincipal.dfm</Transaction>
+    <Transaction>2021/02/23 19:50:52.000.677,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\PC\Desktop\Program 1\Space Invaders (Proyecto)\P_Juego.dproj</Transaction>
+    <Transaction>2021/03/04 19:12:07.000.100,=C:\Users\PC\Desktop\Todo acerca de Program1\Program 1\Space Invaders (Proyecto)\Unit1.pas</Transaction>
+    <Transaction>2021/03/04 19:51:20.000.953,C:\Users\PC\Desktop\Todo acerca de Program1\Program 1\Space Invaders (Proyecto)\UCEnemigos.pas=C:\Users\PC\Desktop\Todo acerca de Program1\Program 1\Space Invaders (Proyecto)\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 23:49:01.000.244,=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 23:49:19.000.047,C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\Unit1.pas=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\UCNave.pas</Transaction>
+    <Transaction>2021/03/11 23:49:25.000.974,=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 23:50:28.000.967,C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\Unit1.pas=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\UCInvasor.pas</Transaction>
+    <Transaction>2021/03/11 23:50:36.000.546,=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 23:50:52.000.556,C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\Unit1.pas=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\UCBala.pas</Transaction>
+    <Transaction>2021/03/13 22:53:50.000.319,C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\UCInvasor.pas=C:\Users\pc\Desktop\Dario S (no tocar)\Program 1\Space Invaders (Proyecto)\UCEnemigo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
