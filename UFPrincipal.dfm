@@ -82,8 +82,8 @@ object Juego: TJuego
     Height = 30
     AutoOpen = True
     FileName = 
-      'C:\Users\EQUIPO\Desktop\Acerca de programaci'#243'n (Proyectos)\Progr' +
-      'am 1\Space Invaders (Proyecto)\Win32\Debug\Fx\Musica.mp3'
+      'C:\Users\EQUIPO\Desktop\Git\Space-_invaders\Win32\Debug\Fx\Music' +
+      'a.mp3'
     Visible = False
     TabOrder = 0
   end
@@ -94,8 +94,8 @@ object Juego: TJuego
     Height = 30
     AutoOpen = True
     FileName = 
-      'C:\Users\EQUIPO\Desktop\Acerca de programaci'#243'n (Proyectos)\Progr' +
-      'am 1\Space Invaders (Proyecto)\Win32\Debug\Fx\Shot.mp3'
+      'C:\Users\EQUIPO\Desktop\Git\Space-_invaders\Win32\Debug\Fx\Shot.' +
+      'mp3'
     Visible = False
     TabOrder = 1
   end
@@ -106,8 +106,8 @@ object Juego: TJuego
     Height = 30
     AutoOpen = True
     FileName = 
-      'C:\Users\EQUIPO\Desktop\Acerca de programaci'#243'n (Proyectos)\Progr' +
-      'am 1\Space Invaders (Proyecto)\Win32\Debug\Fx\Da'#241'o.mp3'
+      'C:\Users\EQUIPO\Desktop\Git\Space-_invaders\Win32\Debug\Fx\Da'#241'o.' +
+      'mp3'
     Visible = False
     TabOrder = 2
   end
@@ -118,8 +118,8 @@ object Juego: TJuego
     Height = 30
     AutoOpen = True
     FileName = 
-      'C:\Users\EQUIPO\Desktop\Acerca de programaci'#243'n (Proyectos)\Progr' +
-      'am 1\Space Invaders (Proyecto)\Win32\Debug\Fx\Bum.mp3'
+      'C:\Users\EQUIPO\Desktop\Git\Space-_invaders\Win32\Debug\Fx\Bum.m' +
+      'p3'
     Visible = False
     TabOrder = 3
   end
